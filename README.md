@@ -20,4 +20,4 @@ Analyzed 2,241 customer records to understand marketing campaign performance and
 - Customers with no kids spend most on wine (681K)
 
 ## Screenshot
-![Dashboard](marketing_dashboard.png)
+<img width="1469" height="675" alt="image" src="https://github.com/user-attachments/assets/ab660672-b2d4-49f7-9126-84c65ca35c84" />
